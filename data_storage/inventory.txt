@@ -1,0 +1,5 @@
+P001|Wireless Charger|Protective Gear|Fast wireless charger|25.99|10.0|S002|Generic|WH5|60|10|2023-08-28|25|paid
+P002|AirPods Pro Case|Charging Solutions|Shockproof AirPods Pro case|15.99|7.0|S002|Apple|WH4|80|10|2023-08-25|40|unpaid
+P003|iPhone 13 Case|Mounts and Holders|Durable iPhone 13 case|19.99|12.0|S003|Apple|WH1|98|10|2023-08-15|32|unpaid
+P004|Pixel 6 Screen Protector|Connectivity|Tempered glass screen protector|9.99|3.5|S002|Google|WH3|150|20|2023-08-22|50|unpaid
+P005|Samsung Galaxy S21 Charger|Storage Solution|Fast charger for S21|29.99|15.0|S001|Samsung|WH2|50|51|2023-08-20|20|paid

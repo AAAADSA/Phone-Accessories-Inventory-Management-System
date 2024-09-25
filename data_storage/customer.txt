@@ -1,0 +1,5 @@
+C001|John Doe|john.doe@example.com|1234567890|123 Apple St, New York, NY
+C002|Jane Smith|jane.smith@example.com|0987654321|456 Orange St, Los Angeles, CA
+C003|Michael Johnson|michael.j@example.com|1231231234|789 Banana Ave, Chicago, IL
+C004|Emily Davis|emily.davis@example.com|9879879870|101 Grape Rd, Houston, TX
+C005|David Brown|david.brown@example.com|4564564567|202 Cherry Ln, Phoenix, AZ
