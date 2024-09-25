@@ -1,7 +1,7 @@
 # Phone-Accessories-Inventory-Management-System
 
 ## Description
-The Phone Accessories Warehouse System is designed to manage daily business operations such as inventory management, order processing, and supplier management for staff and customers.
+The Phone Accessories Inventory Management System is designed to manage daily business operations such as inventory management, order processing, and supplier management for staff and customers.
 
 ## Features
 - User account management (login and register)
